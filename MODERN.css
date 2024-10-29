@@ -37,14 +37,14 @@ body{
   }
 
   .container {
-    display: flex;
+    /* display: flex;
     justify-content: space-between;
     align-items: center;
     margin: 50px auto;
     max-width: 1200px;
     padding: 0 20px;
     /* border: 20px; */
-    margin: 60px;
+    /* margin: 60px;  */
   }
 
   .text {
